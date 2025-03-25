@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "funny-yellow-yogurt",
+    "slug": "snack-3a4606f6-f3e9-4860-ab62-1baaaf036e0b",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.clouds.snack3a4606f6f3e94860ab621baaaf036e0b",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.clouds.snack3a4606f6f3e94860ab621baaaf036e0b"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "89c77e60-7ff0-4c00-afed-956c5b313ea5"
+      }
+    }
+  }
+}
