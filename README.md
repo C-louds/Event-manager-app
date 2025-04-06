@@ -1,11 +1,63 @@
-# Sample Snack app
+# Event Manager App
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Event Manager App is a comprehensive solution for managing events, built using TypeScript, Kotlin, Objective-C++, Ruby, Objective-C, Swift, and C. This application allows users to create, manage, and track events efficiently.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+## Table of Contents
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Features
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Manage events
+- Invite participants
+- Track event progress
+- Real-time notifications
+- Multi-platform support (iOS and Android)
+
+## Installation
+
+### Prerequisites
+
+- Node.js and npm installed
+- Android Studio for Android development
+- Xcode for iOS development
+
+### Steps
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/C-louds/Event-manager-app.git
+    cd Event-manager-app
+    ```
+
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+3. Start the development server:
+    ```sh
+    npm start
+    ```
+
+## Usage
+
+### Running on Android
+
+1. Open the project in Android Studio.
+2. Connect an Android device or start an emulator.
+3. Run the project.
+
+### Running on iOS
+
+1. Open the project in Xcode.
+2. Connect an iOS device or start a simulator.
+3. Run the project.
+
+
+## Contact
+
+For any inquiries or feedback, please contact [C-louds](https://github.com/C-louds).
