@@ -11,10 +11,7 @@ Event Manager App is a comprehensive solution for managing events, built using T
 
 ## Features
 
-- Manage events
-- Invite participants
-- Track event progress
-- Real-time notifications
+- Ticket Validation
 - Multi-platform support (iOS and Android)
 
 ## Installation
