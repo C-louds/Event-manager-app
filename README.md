@@ -1,6 +1,6 @@
 # Event Manager App
 
-Event Manager App is a comprehensive solution for managing events, built using TypeScript, Kotlin, Objective-C++, Ruby, Objective-C, Swift, and C. This application allows users to create, manage, and track events efficiently.
+Event Manager App is a comprehensive solution for managing events, built using TypeScript and React Native. This application allows users to create, manage, and track events efficiently.
 
 ## Table of Contents
 
